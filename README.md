@@ -3,9 +3,11 @@
 
 
 1. Introduction to Keras
-
-
-Understanding sequential, dense and basic building of building a Neural Network 
+ 
+  What a basic keras program looks like 
+  
+   
+  Understanding sequential, dense and basic building of building a Neural Network 
 
 2. Saving models 
 
