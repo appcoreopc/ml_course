@@ -9,6 +9,7 @@
   
   Try to do a simple image recognization to provides details about any image.
    
+  https://colab.research.google.com/drive/1YXjN-mry0r7djAObuUv9Jgkx9YNVar71#scrollTo=OB1F_DX46Spj
   
    
   Understanding sequential, dense and basic building of building a Neural Network 
