@@ -6,6 +6,10 @@
  
   What a basic keras program looks like 
   
+  
+  Try to do a simple image recognization to provides details about any image.
+   
+  
    
   Understanding sequential, dense and basic building of building a Neural Network 
 
