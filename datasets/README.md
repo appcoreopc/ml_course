@@ -13,3 +13,5 @@ Iris dataset
 Titanic dataset
 - Contains information about passengers for the famous ship that sunk. Info such as male vs female, first class vs third class. The aim is to do feature engineering to predict female survives that tragedy better than man. 
 
+Microsoft MRPC (Paraphrase)
+- is a dataset to examine if two sentences have the same meaning.
