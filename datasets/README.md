@@ -15,3 +15,7 @@ Titanic dataset
 
 Microsoft MRPC (Paraphrase)
 - is a dataset to examine if two sentences have the same meaning.
+
+
+Glue / SuperGlue 
+- A complex dataset 
