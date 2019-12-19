@@ -1,15 +1,14 @@
-# Keras Basic 
+# ml_course
+
+
 
 1. Introduction to Keras
  
   What a basic keras program looks like: 
 
   Why Keras? What does Keras offer that others tooling cannot provides?
-  Keras is designed to be user friendly and it is used by many organization such as Nasa.
 
-  Let's go through this colab notebook. 
-
-  https://colab.research.google.com/drive/1QzjhL-vs7pp0aC96wl5Djq33q0jwgLMR#scrollTo=QsukIZIx5tg_
+  
   
   Try to do a simple image recognization to provides details about any image.
    
@@ -25,7 +24,3 @@
 4. Working with NLP 
   
   - Understanding dataset
-
-5. Estimator 
-
-  https://colab.research.google.com/drive/1lacRNebPZhV52PO7s7HjNW1M-ScYUrA9#scrollTo=oiQkUS9P-9xD
