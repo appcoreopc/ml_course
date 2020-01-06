@@ -7,8 +7,7 @@
   What a basic keras program looks like: 
 
   Why Keras? What does Keras offer that others tooling cannot provides?
-
-  
+ 
   
   Try to do a simple image recognization to provides details about any image.
    
@@ -24,6 +23,10 @@
 4. Working with NLP 
   
   - Understanding dataset
+  
+  
+  
+  Back home 
   
   
   
